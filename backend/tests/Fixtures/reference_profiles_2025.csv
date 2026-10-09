@@ -1,0 +1,13 @@
+name,category,fiscal_power,usage,birth_date,license_date,zone,bonus_malus,effective_date,expected_net_premium,expected_total
+conducteur_neutre,promenade_affaires,7,personnel,1985-06-15,2005-09-01,autres_villes,1.00,2025-07-01,90000,111025
+awa_jeune_douala,promenade_affaires,7,personnel,2001-03-10,2023-05-20,douala,1.00,2025-07-01,148781,179799
+jeune_permis_neuf_yaounde,promenade_affaires,5,personnel,2006-01-10,2025-02-01,yaounde,1.00,2025-07-01,144144,174374
+pile_25_ans_permis_364_jours,promenade_affaires,7,personnel,2000-07-01,2024-07-02,autres_villes,1.00,2025-07-01,117000,142615
+taxi_douala,transport_public_voyageurs,8,professionnel,1978-11-02,2000-01-15,douala,1.00,2025-07-01,257888,307454
+bon_conducteur_bonus_max,promenade_affaires,12,personnel,1970-04-01,1990-06-01,yaounde,0.50,2025-07-01,64900,81659
+malus_douala,promenade_affaires,4,personnel,1990-09-09,2012-01-01,douala,1.75,2025-07-01,144900,175259
+senior_ne_29_fevrier,promenade_affaires,6,personnel,1948-02-29,1970-05-05,zone_rurale,0.85,2025-07-01,68850,86279
+moto_jeune,deux_roues,2,personnel,2004-08-01,2023-08-01,autres_villes,1.00,2025-07-01,28980,39632
+camion_rural_malus,transport_public_marchandises,16,professionnel,1982-12-31,2004-03-03,zone_rurale,1.20,2025-07-01,260820,310885
+propre_compte_pile_3_ans_permis,transport_propre_compte,9,professionnel,1995-07-01,2022-07-01,douala,0.95,2025-07-01,150765,182120
+grosse_cylindree_malus,promenade_affaires,24,personnel,1980-01-01,2000-01-01,yaounde,2.10,2025-07-01,415800,492211
